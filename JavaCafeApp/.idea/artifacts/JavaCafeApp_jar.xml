@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaCafeApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaCafeApp_jar</output-path>
+    <root id="archive" name="JavaCafeApp.jar">
+      <element id="module-output" name="JavaCafeApp" />
+    </root>
+  </artifact>
+</component>
